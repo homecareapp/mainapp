@@ -1,0 +1,30 @@
+[
+  {
+  "name": "reception",
+  "privileges": [
+    {
+      "name": "referrals",
+      "access": [
+        "read",
+        "write",
+        "update"
+      ]
+    },
+    {
+      "name": "assessments",
+      "access": [
+        "read",
+        "write",
+        "update"
+      ]
+    }
+  ]
+},
+  {
+    "name": "privilegesmaster",
+    "details": [
+      "PatientDemography",
+      "PatientMedicalHistory"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devokas-mly",
+  "private_key_id": "577a502fc5011a1cce56eb0dd2de93ea8380e698",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvd+yXjMYFaxj1\nw4kx22OfOcOdIeJ8yNzHTiaELXtMUEn/K2yiN0udWjBsEk1QfL+1jyLjHI5UY9vi\nuDFtvhghJj3ZfGFnxv4iECXqCfOFbAwoHTAvEAiHrHeePveA+W+rbpjQcCRvsH/h\nL3XGmqPK1jnpzziOKA8eNZk4w+lWvDkrqe6SfD1D55AVE+ifm1gKByzirDbRbA4t\nUItvluPqWdVbFylVgTFYmz6GEqlT85gsq0qdWrzShElOSfEhJIpuo3DDoRUhqSIG\nCQMV6iGfAEBTAtCYnsCIa/CrI2GxvLKVWW0aOFmi/bM5cIcs1n+Nm2DQwS9i1IMt\nN1aq6GADAgMBAAECggEANmLMUTjP07QbO2mM54ghe6OyzsxG3/h9/cRqScOzGLc2\nCEIUXL8Yz7+5jHWrwwu3e/XOkWgzcVK2P7Jpl6M45WVt/DACHOFfuX0Z002cTjls\nFy7c1Wl5y1uYg9LucepeQ1t3P/vSP1AMguZr8c/SfrchoieZVu5xqSJhyGdotnoD\nKM1Y2j0P/9cJ46bV55xafNjX03aKV2jCCDTLAmNuQ1se05i5fLN45JUOu2aB9LEe\nNBGfmEtjrdic9ebAc/fVuQDMAVPZmf9Q7Zo4S6UdickFmFYjT/v/OzFnCCGVipCW\n5sD8X1yCwFPq4tmceNeKsIueS89wsW37EOrPXuoi6QKBgQDaZiDhjZxWBZnrgXx4\nor/mM8Vj3TESFKd/WfEhBVG9118CUlWT8O82oY7FxW8o01m4S2Vy9SJgc8Ks6Mv+\nZTK3BS+HN19+1RKxtDpSP4sPQnwBgkk0YtQiNpOYL1AfpZlJxAWmKWXlTWssDnrC\n2XW8tQ5LURU3Wx0HiXpyp4EBzQKBgQDNraWQCumUR9Sb/D+W0uY7PT4b/oHQFdFU\n4OxC8OMnbOIR+dpPI8E1AIx2IBbJnv998QdJWQMQZc9mmfLFd/L2xv8fUoMcGsuP\ncw024dJ12VCRuXN67/FrbWY8w3ObbKLUhEAKImCs3BX8GWXqNDLUdqYgr0AiHMey\nTJDqfp1ZDwKBgQCPO22TH5GJZREGQBzG7U3XhtqM3RMCnaMgRXd7xYZPcAEyf5b6\neIgaFyiQkiSN7NappGD7XMNX6HOjfOXUiMATAgaisnEhuFITU3TwXhYwQtUbFDw4\nbBxd99cidt0gdDWtCC8AQ6Q9F2ITOcfPJFkwEro2MQ4uCMZoHAS/TxWvfQKBgH8b\nQgbrh4BYh77CO7YErb2MUnbQaP7kjNIskjWoUmkJ9Afx5YUk7oDHzwYtPIfrV69I\nJh2hAbC/ilW46/w27ZKuVfnQbzAOKyCClHcHRZ4I56628fPWltax7A2/KBG0KEi3\nVjAtIJuTA48hTwdWrNb6YB4wz6yFJrA8ew4/oxPnAoGAJHXLj3PRbw4O5S5TSibM\n2iT42CPNOrh3wUVW0pzn0fIYp0/2VQVu4PfiCa+8F+RLqcyI+451OrtxMbBlHOeR\nXtBS+86j3uW0CMjj4rLrepU2643QHDWvqhgCmtTojGcWVPADQa69RMxmlU2Jhzuc\nr9y6g597WQH5WrtrR59zkbQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "devokas-mly@devokas-mly.iam.gserviceaccount.com",
+  "client_id": "100775041138829126338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devokas-mly%40devokas-mly.iam.gserviceaccount.com"
+}
